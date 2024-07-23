@@ -1,0 +1,334 @@
+23-07-2024 17:52:22 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:52:22 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:52:22 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:52:22 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:52:51 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:52:51 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:52:51 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:52:51 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:52:51 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:52:51 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:53:10 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:10 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:10 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:10 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:53:10 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:53:10 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:19 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:19 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:19 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:53:19 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:53:20 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:53:20 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:53:20 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:53:21 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:21 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:21 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:21 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:21 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:21 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:53:30 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:53:31 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:53:31 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:53:31 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:53:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:53:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:53:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:55:01 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 17:55:02 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:55:02 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:55:02 [DEBUG] transliterator.py: 79: Translation: तिम्रो नाम क हो?
+23-07-2024 17:55:03 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:55:03 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:55:03 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 17:55:03 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:55:03 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:55:03 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 17:55:49 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:55:49 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:55:49 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:55:49 [DEBUG] transliterator.py: 44: Detected source language: English
+23-07-2024 17:55:49 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:55:49 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:55:49 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 17:55:49 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 18:00:06 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:06 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:06 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:06 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:06 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:06 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 18:00:06 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 18:00:06 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 18:00:06 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 18:00:06 [DEBUG] app.py: 39: Selected destination language as Afrikaans
+23-07-2024 18:00:13 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:13 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:13 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:13 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:13 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:13 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:13 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:13 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:13 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:13 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 79: Transliteration: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 79: Transliteration: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 79: Transliteration: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 79: Transliteration: Timro naam k ho?
+23-07-2024 18:00:14 [DEBUG] transliterator.py: 79: Transliteration: Timro naam k ho?
+23-07-2024 18:00:15 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:15 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:15 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:15 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:15 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:15 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:15 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:15 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:15 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:15 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:24 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:24 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:24 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:24 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:24 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:24 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:24 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:24 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:24 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:24 [DEBUG] app.py: 39: Selected destination language as English
+23-07-2024 18:00:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:32 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:32 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 56: Source text: Timro naam k ho?
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 57: Source language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 18:00:33 [DEBUG] transliterator.py: 58: Target language: Nepali
+23-07-2024 18:00:35 [DEBUG] transliterator.py: 79: Transliteration: तिम्रो नाम के हो?
+23-07-2024 18:00:35 [DEBUG] transliterator.py: 79: Transliteration: तिम्रो नाम के हो?
+23-07-2024 18:00:35 [DEBUG] transliterator.py: 79: Transliteration: तिम्रो नाम के हो?
+23-07-2024 18:00:35 [DEBUG] transliterator.py: 79: Transliteration: तिम्रो नाम के हो?
+23-07-2024 18:00:35 [DEBUG] transliterator.py: 79: Transliteration: तिम्रो नाम के हो?
+23-07-2024 18:00:36 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:36 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:36 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:36 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:36 [DEBUG] transliterator.py: 44: Detected source language: Nepali
+23-07-2024 18:00:36 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:36 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:36 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:36 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:00:36 [DEBUG] app.py: 39: Selected destination language as Nepali
+23-07-2024 18:08:53 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:53 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:53 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:53 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:53 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:53 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:53 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:53 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:08:53 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:08:53 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:08:53 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:08:53 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:08:53 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:08:53 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:08:59 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:59 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:59 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:59 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:59 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:59 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:59 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:08:59 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:08:59 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:08:59 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:08:59 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:08:59 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:08:59 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:08:59 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 79: Transliteration: Based on transformer architecture for language transliteration: supports over 30 languages
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 79: Transliteration: Based on transformer architecture for language transliteration: supports over 30 languages
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 79: Transliteration: Based on transformer architecture for language transliteration: supports over 30 languages
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 79: Transliteration: Based on transformer architecture for language transliteration: supports over 30 languages
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 79: Transliteration: Based on transformer architecture for language transliteration: supports over 30 languages
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 79: Transliteration: Based on transformer architecture for language transliteration: supports over 30 languages
+23-07-2024 18:09:00 [DEBUG] transliterator.py: 79: Transliteration: Based on transformer architecture for language transliteration: supports over 30 languages
+23-07-2024 18:09:02 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:09:02 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:09:02 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:09:02 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:09:02 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:09:02 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:09:02 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:09:02 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:09:02 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:09:02 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:09:02 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:09:02 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:09:02 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:09:02 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:40 [DEBUG] app.py: 43: Selected destination language as Afrikaans
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:45 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 56: Source text: 基于变压器的架构 对于语言音译： 支援 30 多種語言
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 57: Source language: Chinese
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:46 [DEBUG] transliterator.py: 58: Target language: English
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:48 [DEBUG] transliterator.py: 79: Transliteration: Ji yu bian ya qi de jia gou dui yu yu yan yin yi: zhi yuan 30 duo zhong yu yan
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] transliterator.py: 44: Detected source language: Chinese
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
+23-07-2024 18:11:50 [DEBUG] app.py: 43: Selected destination language as English
