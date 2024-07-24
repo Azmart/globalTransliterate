@@ -31,5 +31,4 @@ supported_languages = {
     "Urdu": "ur",
     "Vietnamese": "vi",
     "Chinese": "zh-CN",
-    "Cantonese": "zh-HK"
 }
