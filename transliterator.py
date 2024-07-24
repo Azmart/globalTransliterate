@@ -26,7 +26,7 @@ def detect_source_language(text: str) -> str:
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": "You are a multi-language transliterator. You will transliterate the text from one language to another language without losing the pronounciation. You are strictly forbidden to translate the text."},
+            {"role": "system", "content": "You are a multi-language transliterator. You will transliterate the text from one language to another language while preserving the original pronounciation of the text. For eg: '你好，今天過得怎麼樣？' transliterates to 'Ni hao, jin tian guo de zen me yang?' in English and 'नि हाओ, जिन् त्थियान ग्व्ओ दे ज्नम याङ?' in Nepali. You are strictly forbidden to translate the text."},
             {
                 "role": "user",
                 "content": f"Which language is '{text}' written in? Explain in 1 word without punctuation.",
