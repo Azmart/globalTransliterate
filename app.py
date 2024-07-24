@@ -14,7 +14,7 @@ def main():
     left_column, right_column = main_container.columns(2)
     
     st.sidebar.title("ट्रान्सफार्मर स्थापत्यमा आधारित भाषा अव्याख्याणिक मोडेल: ३० भन्दा बढि भाषामा।")
-    st.sidebar.title("Lipi 1.1: Transformer Based Architecture For Language Transliteration: In Over 30 languages")
+    st.sidebar.title("Transformer Based Architecture For Language Transliteration: In Over 30 languages")
     st.sidebar.title("基于变压器的架构 对于语言音译： 支援 30 多種語言")
 
     left_column.title("How do I write...")
